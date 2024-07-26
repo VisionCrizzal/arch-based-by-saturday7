@@ -1,7 +1,7 @@
 # arch-based-by-saturday7
 All useful script for arch linux or arch-based linux 
 
-Envycontrol:gpu switch between intergrated to nvidia or hybrid
+Envycontrol: gpu switch between intergrated to nvidia or hybrid
 https://github.com/bayasdev/envycontrol
 
 nvidia auto install:
